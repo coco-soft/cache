@@ -1,0 +1,21 @@
+{
+    "name": "coco-soft/cache",
+    "description": "cache component",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "cache", "coco"
+    ],
+    "authors": [
+        {
+            "name": "Heropoo",
+            "email": "aiyouyou1000@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "coco\\cache\\": ""
+        }
+    }
+}
